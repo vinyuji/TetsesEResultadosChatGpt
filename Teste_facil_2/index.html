@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Converse com o ChatGPT</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff; /* Fundo claro e suave */
+            font-family: Arial, sans-serif;
+        }
+
+        #chatButton {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #4a90e2; /* Botão mais escuro para contraste */
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        #chatButton:hover {
+            background-color: #357ABD; /* Animação ao passar o mouse (cor mais escura) */
+            transform: scale(1.05); /* Efeito de leve aumento */
+            transition: 0.3s;
+        }
+
+        #chatButton:active {
+            transform: scale(1); /* Volta ao tamanho normal quando clicado */
+        }
+    </style>
+</head>
+<body>
+
+    <button id="chatButton">Converse com o ChatGPT</button>
+
+    <script>
+        document.getElementById('chatButton').addEventListener('click', function() {
+            window.location.href = 'https://chat.openai.com';
+        });
+    </script>
+
+</body>
+</html>
