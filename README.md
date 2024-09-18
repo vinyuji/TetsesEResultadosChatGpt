@@ -19,14 +19,14 @@ Estes teste servirao como base para uma analise quantitativa e qualitativa dos c
     Nivel facil: teste_facil_3, resultado satisfatrio, conforme o pedido, nenhum erro (Obs, escrevi de forma inconsisa para dificultar o pedido do codigo simples).
     Nivel facil: teste_facil_4, resultado satisfatorio, conforme o pedido, nenhum erro.
     Nivel facil: teste_facil_5, resultado satisfatorio, conforme o pedido, nenhum erro.
-    Nivel facil: teste_facil_6,
-    Nivel facil: teste_facil_7,
-    Nivel facil: teste_facil_8,
-    Nivel facil: teste_facil_9,
-    Nivel facil: teste_facil_10,
-    Nivel facil: teste_facil_12,
-    Nivel facil: teste_facil_13,
-    Nivel facil: teste_facil_14,
-    Nivel facil: teste_facil_15,
+    Nivel facil: teste_6, resultado satisfatorio, conforme o pedido, nenhum erro.
+    Nivel facil: teste_7,
+    Nivel facil: teste_8,
+    Nivel facil: teste_9,
+    Nivel facil: teste_10,
+    Nivel facil: teste_12,
+    Nivel facil: teste_13,
+    Nivel facil: teste_14,
+    Nivel facil: teste_15,
 
 
