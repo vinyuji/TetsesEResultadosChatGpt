@@ -1,0 +1,53 @@
+body.clean-theme {
+    background-color: #f0f0f0;
+    color: #000;
+}
+
+body.dark-theme {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.page {
+    display: none;
+}
+
+.page.active {
+    display: block;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
+
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+#github-info {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#github-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.hidden {
+    display: none;
+}

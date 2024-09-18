@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login and Cadastro with GitHub API</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="clean-theme">
+    <header>
+        <nav>
+            <button id="login-btn">Login</button>
+            <button id="signup-btn">Cadastro</button>
+        </nav>
+        <button id="toggle-theme">Switch Theme</button>
+    </header>
+
+    <!-- Login Page -->
+    <section id="login-page" class="page active">
+        <h2>Login</h2>
+        <div class="form-container">
+            <input type="email" id="login-email" placeholder="Digite seu e-mail">
+            <input type="password" id="login-password" placeholder="Digite sua senha">
+            <button onclick="login()">Login</button>
+            <p id="login-error"></p>
+        </div>
+    </section>
+
+    <!-- Signup Page -->
+    <section id="signup-page" class="page">
+        <h2>Cadastro</h2>
+        <div class="form-container">
+            <input type="email" id="signup-email" placeholder="Digite seu e-mail">
+            <input type="password" id="signup-password" placeholder="Digite sua senha">
+            <input type="password" id="signup-confirm-password" placeholder="Confirme sua senha">
+            <input type="text" id="signup-github" placeholder="Digite seu GitHub">
+            <button onclick="signup()">Cadastrar</button>
+            <p id="signup-error"></p>
+        </div>
+    </section>
+
+    <!-- Home Page -->
+    <section id="home-page" class="page">
+        <h2>Página Inicial</h2>
+        <div id="github-info">
+            <img id="github-avatar" src="" alt="Avatar">
+            <p id="github-name"></p>
+            <p id="github-email"></p>
+        </div>
+        <div id="repos"></div>
+        <button onclick="previousPage()">Anterior</button>
+        <button onclick="nextPage()">Próximo</button>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

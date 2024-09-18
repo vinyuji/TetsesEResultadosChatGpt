@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Site</title>
+    <title>Login</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -14,9 +14,13 @@
     </div>
     <div class="container">
         <div class="form-container">
-            <h2>Bem-vindo ao Site</h2>
-            <p>Escolha uma das opções no menu de navegação.</p>
+            <h2>Login</h2>
+            <input type="email" id="login-email" placeholder="E-mail">
+            <input type="password" id="login-password" placeholder="Senha">
+            <button onclick="handleLogin()">Entrar</button>
+            <div id="login-error" class="error-message"></div>
         </div>
     </div>
+    <script src="scripts.js"></script>
 </body>
 </html>
