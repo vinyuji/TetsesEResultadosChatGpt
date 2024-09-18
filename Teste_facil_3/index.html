@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quatro Botões</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #add8e6; /* Fundo azul claro */
+            position: relative;
+            font-family: Arial, sans-serif;
+        }
+
+        .corner-box {
+            width: 150px;
+            height: 150px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+        }
+
+        #top-left {
+            top: 10px;
+            left: 10px;
+        }
+
+        #top-right {
+            top: 10px;
+            right: 10px;
+        }
+
+        #bottom-left {
+            bottom: 10px;
+            left: 10px;
+        }
+
+        #bottom-right {
+            bottom: 10px;
+            right: 10px;
+        }
+
+        button {
+            width: 120px;
+            height: 50px;
+            background-color: #1E90FF; /* Azul para os botões */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: #4169E1; /* Cor diferente ao passar o mouse */
+        }
+
+        button:active {
+            background-color: #27408B; /* Cor ao clicar */
+            transform: scale(0.98); /* Leve redução ao clicar */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Quadrado canto superior esquerdo -->
+    <div id="top-left" class="corner-box">
+        <button onclick="window.location.href='https://www.youtube.com'">YouTube</button>
+    </div>
+
+    <!-- Quadrado canto superior direito -->
+    <div id="top-right" class="corner-box">
+        <button onclick="window.location.href='https://www.google.com'">Google</button>
+    </div>
+
+    <!-- Quadrado canto inferior esquerdo -->
+    <div id="bottom-left" class="corner-box">
+        <button onclick="window.location.href='https://chat.openai.com'">ChatGPT</button>
+    </div>
+
+    <!-- Quadrado canto inferior direito -->
+    <div id="bottom-right" class="corner-box">
+        <button onclick="window.location.href='https://www.instagram.com'">Instagram</button>
+    </div>
+
+</body>
+</html>

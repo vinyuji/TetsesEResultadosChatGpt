@@ -3,7 +3,7 @@ Estes teste servirao como base para uma analise quantitativa e qualitativa dos c
 
 # Dificuldades
     Nivel facil: simples, com botoes interativos ou com hiperlinks, input, formlario e animacoes. (15 testes).
-    Nivel medio: adicionando logica a contrucao, contas, botoes interativos, fomrulario, listagem do formulario, paginacao, Api, modals. (15 Testes).
+    Nivel medio: adicionando logica a contrucao, contas, botoes interativos, fomrulario, listagem do formulario, paginacao, Api, modals. (15 Testes), organizar por arquivos, html e css.
     Nivel dificil: Tentativa de banco de dados, contrucao de rotas, paginacao, crud completo, api . ( 15 testes).
 
     classificacao: 
@@ -16,9 +16,9 @@ Estes teste servirao como base para uma analise quantitativa e qualitativa dos c
 
     Nivel facil: teste_facil_1, resultado satisfatorio, conforme o pedido, nenhum erro.
     Nivel facil: teste_facil_2, resultado satifatorio, conforme o pedido, nenhum erro.
-    Nivel facil: teste_facil_3,
-    Nivel facil: teste_facil_4,
-    Nivel facil: teste_facil_5,
+    Nivel facil: teste_facil_3, resultado satisfatrio, conforme o pedido, nenhum erro (Obs, escrevi de forma inconsisa para dificultar o pedido do codigo simples).
+    Nivel facil: teste_facil_4, resultado satisfatorio, conforme o pedido, nenhum erro.
+    Nivel facil: teste_facil_5, resultado satisfatorio, conforme o pedido, nenhum erro.
     Nivel facil: teste_facil_6,
     Nivel facil: teste_facil_7,
     Nivel facil: teste_facil_8,
