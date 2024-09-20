@@ -15,14 +15,22 @@ Estes teste servirao como base para uma analise quantitativa e qualitativa dos c
 
 
 
-    Nivel facil: teste_facil_1, resultado satisfatorio, conforme o pedido, nenhum erro.
-    Nivel facil: teste_facil_2, resultado satifatorio, conforme o pedido, nenhum erro.
-    Nivel facil: teste_facil_3, resultado satisfatrio, conforme o pedido, nenhum erro.
-    Nivel facil: teste_facil_4, resultado satisfatorio, conforme o pedido, nenhum erro.
-    Nivel facil: teste_facil_5, resultado satisfatorio, conforme o pedido, nenhum erro.
-    Nivel facil: teste_medio_6, resultado satisfatorio, conforme o pedido, nenhum erro.
-    Nivel facil: teste_medio_7, resultado satisfatorio, conforme o pedido, nenhum erro
-    Nivel facil: teste_medio_8, resultado nem satisfatorio nem insatisfatorio, apresentou resultado, nao quebrou o codigo, no entanto nao apareceu o formulario de cadastro nem de login, mas apos informar o chat que nao apareceu o login nem o cadastro, o elemento script.js foi alterado, o que foi corrigido e arrumado.
+    
+    teste_1L resultado satisfatorio, conforme o pedido, nenhum erro.
+    
+    teste_2: resultado satifatorio, conforme o pedido, nenhum erro.
+    
+    teste_3: resultado satisfatrio, conforme o pedido, nenhum erro.
+    
+    teste_4: resultado satisfatorio, conforme o pedido, nenhum erro.
+    
+    teste_5: resultado satisfatorio, conforme o pedido, nenhum erro.
+    
+    teste_6: resultado satisfatorio, conforme o pedido, nenhum erro.
+
+    teste_7: resultado satisfatorio, conforme o pedido, nenhum erro
+
+    teste_8: resultado nem satisfatorio nem insatisfatorio, apresentou resultado, nao quebrou o codigo, no entanto nao apareceu o formulario de cadastro nem de login, mas apos informar o chat que nao apareceu o login nem o cadastro, o elemento script.js foi alterado, o que foi corrigido e arrumado.
 
     pergunta para qual deu o primeiro  nao satisfatorio: 
 
@@ -129,11 +137,13 @@ Estes teste servirao como base para uma analise quantitativa e qualitativa dos c
     agora ele arrumou e deixou 100% funcionando
 
 
-    Nivel facil: teste_9,
-    Nivel facil: teste_10,
-    Nivel facil: teste_12,
-    Nivel facil: teste_13,
-    Nivel facil: teste_14,
-    Nivel facil: teste_15,
+    teste_9: resultado nem satisfeito nem insastifeito, o codigo gerado cadastrou, fez o login, no entanto ao criar as mesas nao era listado para fazer as reversas, o codigo apresentou cerca de 75% de funcionamento.
+
+    teste_10: resultado insastisfeito, nao consguiu criar o servidor que guardara as informacoes do banco de dados, o chat nao tem capacidade de fazer esse trabalho. acredito funcionaria com algunas ajustes.
+
+    teste_12: resultado insatisfeito, nao conseguiu criar o servidor que guardara as informacoes no banco de dados, ele criava o banco de dados e tudo mais, mas quando dava inicio ao servidor, algumas coisas que foi usada no codigo nao foram pedidas, bcrypt foi usado mas nao foi avisado para ser beixado
+
+    teste_13: resultado satisfatorio, funcionou certa de 85%, OBS: apesar de ter funcionado, as reservas nao estava funcionando 100%, elas reservavam, no entantom podia ser reservado a mesma mesa para duas pessoas ou para a mesma, tirando isso, tudo ok.
+
 
 

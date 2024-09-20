@@ -1,0 +1,17 @@
+CREATE DATABASE restaurante;
+
+USE restaurante;
+
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    senha VARCHAR(255) NOT NULL,
+    cpf VARCHAR(14) NOT NULL
+);
+
+CREATE TABLE mesas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    numero INT NOT NULL UNIQUE,
+    capacidade INT NOT NULL,
+    reservada BOOLEAN NOT NULL DEFAULT FALSE
+);
