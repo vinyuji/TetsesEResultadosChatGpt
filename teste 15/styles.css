@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #ff0000;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #ffcccc;
+}
+
+.car-animation {
+    position: relative;
+    width: 100px; /* Ajuste conforme necessário */
+    height: 50px; /* Ajuste conforme necessário */
+}
+
+.car {
+    width: 100%;
+    position: absolute;
+    animation: drive 5s linear infinite;
+}
+
+@keyframes drive {
+    from { left: 100%; }
+    to { left: -100px; }
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ff0000;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

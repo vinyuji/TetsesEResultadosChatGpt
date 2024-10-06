@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rede Social</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Nossa Rede Social!</h1>
+        <nav>
+            <a href="#">Início</a>
+            <a href="#">Perfil</a>
+            <a href="#">Mensagens</a>
+            <a href="#">Sair</a>
+        </nav>
+    </header>
+    <main>
+        <section class="registration">
+            <h2>Registro</h2>
+            <form id="registrationForm">
+                <input type="text" placeholder="Nome" required>
+                <input type="text" placeholder="Nome de usuário" required>
+                <input type="email" placeholder="Email" required>
+                <input type="password" placeholder="Senha" required>
+                <button type="submit">Cadastrar</button>
+            </form>
+        </section>
+        <section class="feed">
+            <h2>Feed de Publicações</h2>
+            <div class="post">
+                <p>Olá, este é um exemplo de publicação!</p>
+                <button class="like">Curtir</button>
+                <button class="comment">Comentar</button>
+                <button class="share">Compartilhar</button>
+            </div>
+            <div class="post">
+                <p>Compartilhe suas experiências com a gente!</p>
+                <button class="like">Curtir</button>
+                <button class="comment">Comentar</button>
+                <button class="share">Compartilhar</button>
+            </div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

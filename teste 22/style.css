@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+    margin: 0;
+}
+
+header {
+    background-color: #007BFF;
+    padding: 10px;
+    text-align: center;
+}
+
+.logo {
+    max-width: 150px;
+}
+
+.navbar a {
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+.destaques {
+    margin-top: 20px;
+}
+
+.cartoes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.cartao {
+    border: 1px solid #007BFF;
+    border-radius: 5px;
+    padding: 15px;
+    width: calc(33% - 20px);
+    transition: transform 0.3s;
+}
+
+.cartao:hover {
+    transform: scale(1.05);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form input, form textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+form button:hover {
+    background-color: #0056b3;
+}
