@@ -1,0 +1,36 @@
+<!-- /meu-projeto-login
+│
+├── /public           # Pasta para arquivos públicos (HTML, CSS)
+│   ├── index.html    # Página principal (Login)
+│   ├── cadastro.html # Página de cadastro
+│   ├── style.css     # Estilos para as páginas
+│
+├── /server           # Pasta para arquivos de backend (Node.js + Express)
+│   ├── db.js         # Conexão com o banco de dados
+│   ├── server.js     # Servidor backend e rotas
+│   ├── routes.js     # Arquivo de rotas para login e cadastro
+│
+└── /sql              # Pasta para scripts SQL
+    └── script.sql    # Script para criar as tabelas no MySQL -->
+
+    
+    <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Login</h2>
+        <form action="/login" method="POST">
+            <input type="email" name="email" placeholder="Email" required>
+            <input type="password" name="password" placeholder="Senha" required>
+            <button type="submit">Entrar</button>
+        </form>
+        <p>Não tem uma conta? <a href="/cadastro">Cadastre-se</a></p>
+    </div>
+</body>
+</html>

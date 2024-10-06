@@ -449,7 +449,7 @@ Reposta a resposta do chat
 
 Pergunta fetia pelo desenvolvedor
 
-    chat, preciso de um site que guara as informacoes de cadastro de um usuario em um banco de dados e use o para fazer o login. faca uma paginacao entre o cadastro e o login. quando logado, va para o chatpt. me faca perguntas durante o processo de criacao, para que nao haja nenhum erro
+    chat, preciso de um site que guarda as informacoes de cadastro de um usuario em um banco de dados e use o para fazer o login. faca uma paginacao entre o cadastro e o login. quando logado, va para o chatpt. me faca perguntas durante o processo de criacao, para que nao haja nenhum erro
 
 Resposta gerada pelo Chat
 
@@ -505,7 +505,6 @@ Reposta a resposta do chat
     quero que me mostre os arquivos ou pastas que voce vai usar para me ajudar a contruir os codigos
 
 
-
 # teste_12: resultado satisfatorio, funcionou certa de 85%, OBS: apesar de ter funcionado, as reservas nao estava funcionando 100%, elas reservavam, no entantom podia ser reservado a mesma mesa para duas pessoas ou para a mesma, tirando isso, tudo ok.
 
 Pergunta feita pelo desenvolvedor
@@ -547,22 +546,192 @@ Reposta a resposta do chat
     10: sim
     11: sim
 
+
+# teste_13: 
+    
+Pergunta gerada pelo Chat Gpt
+
+    1. Qual é o objetivo do seu site?
+    2. Que cores você gostaria de usar no seu site?
+    3. Que seções você gostaria de incluir no site?
+    4. Você gostaria de incluir imagens nas seções? Se sim, que tipo de imagens você tem em
+    mente?
+    5. Você gostaria de adicionar botões de contato?
+    6. Há algum estilo específico que você gostaria de aplicar aos botões e ao layout em geral?
+    7. Você gostaria de incluir algum tipo de animação ou efeito especial no site?
+    8. Você tem algum texto específico que gostaria de incluir em cada seção (Sobre a
+    empresa, Serviços, Projetos), ou você gostaria que eu criasse um texto genérico para
+    começar?
+    9. Por fim, você tem um nome específico para a sua empresa ou um título que gostaria de
+    usar no site?
+
+Resposta feito pelo desenvolvedor
+
+    1. Um site para uma empresa de agronegócio.
+    2. Verde e branco.
+    3. Sobre a empresa, Serviços, Projetos.
+    4. Fotos da empresa.
+    5. Sim, todos estes (email, telefone e redes sociais).
+    6. Minimalistas.
+    7. Animações ao rolar a página.
+    8. Todos estes. Sim, pode fazer um genérico para começar.
+    9. Agro Tech.
+
+
+
+
 # teste_14: 
     
-Pergunta feita pelo desenvolvedor
+Pergunta gerada pelo Chat Gpt
 
-resposta gerada pelo Chat Gpt
+    1. Qual é o objetivo do seu site?
+    2. Que cores você gostaria de usar no seu blog?
+    3. Que seções você gostaria de incluir no seu blog?
+    4. Você gostaria de incluir imagens nas seções? Se sim, que tipo de imagens você tem em
+    mente?
+    5. Você gostaria de adicionar botões de contato?
+    6. Há algum estilo específico que você gostaria de aplicar aos botões e ao layout em geral?
+    7. Você gostaria de incluir algum tipo de animação ou efeito especial no blog?
+    8. Você tem algum texto específico que gostaria de incluir em cada seção (Home, Sobre,
+    Contato, Artigos), ou você gostaria que eu criasse um texto genérico para começar?
+    9. Por fim, você tem um nome específico para o seu blog ou um título que gostaria de usar?
 
-Reposta a resposta do chat
+Resposta feita pelo desenvolvedor
+
+    1. Um blog.
+    2. Azul.
+    3. Todas estas (Home, Sobre, Contato, Artigos).
+    4. Sim, imagens dos artigos.
+    5. Sim, todos estes (email, redes sociais).
+    6. Minimalista.
+    7. Animações ao rolar a página.
+    8. Pode criar um genérico para começar.
+    9. Tech Pet.
 
 # teste_15: 
+
+Pergunta gerada pelo Chat Gpt
+
+    1. Qual é o objetivo do seu site?
+    2. Que cores você gostaria de usar no seu site?
+    3. Que seções você gostaria de incluir no seu site?
+    4. Você gostaria de incluir imagens nas seções? Se sim, que tipo de imagens você tem em
+    mente?
+    5. Você gostaria de adicionar botões de contato?
+    6. Há algum estilo específico que você gostaria de aplicar aos botões e ao layout em geral?
+    7. Você gostaria de incluir algum tipo de animação ou efeito especial no site?
+    8. Você tem algum texto específico que gostaria de incluir em cada seção (Home, Sobre,
+    Carros à venda, Contato), ou você gostaria que eu criasse um texto genérico para
+    começar?
+    9. Por fim, você tem um nome específico para a sua concessionária ou um título que
+    gostaria de usar?
+
+Resposta feito pelo desenvolvedor
+
+    1. Site de concessionária de carro.
+    2. Vermelho e branco.
+    3. Todas estas (Home, Sobre, Carros à venda, Contato).
+    4. Sim. Quero que no cabeçalho tenha uma animação de um carro rodando.
+    5. Sim.
+    6. Minimalista.
+    7. Efeitos ao passar o mouse.
+    8. Pode criar genéricos.
+    9. Pet concessionária.
+
 # teste_16: 
+
+Pergunta gerada pelo Chat Gpt
+
+    1. Qual é o objetivo do seu site?
+    2. Que cores você gostaria de usar no site para divulgar o evento?
+    3. Quais seções você gostaria de incluir no site?
+    4. Você gostaria de incluir imagens no site? Se sim, que tipo de imagens tem em mente?
+    5. Você gostaria de adicionar botões de ação?
+    6. Qual estilo você prefere para o layout e os botões?
+    7. Você gostaria de adicionar algum tipo de animação ou efeito especial no site?
+    8. Você tem algum texto específico que gostaria de incluir em cada seção, ou prefere que
+    eu crie um texto genérico para começar?
+    9. Qual é o nome do evento que você gostaria de destacar no site?
+
+
+Resposta feito pelo desenvolvedor
+
+    1. Divulgação de um evento.
+    2. Amarelo e branco.
+    3. Todas estas (Home, Sobre o Evento, Programação, Inscrições, Contato).
+    4. Apenas uma foto do cantor.
+    5. Sim.
+    6. Minimalista.
+    7. Não.
+    8. Pode criar um genérico.
+    9. Cantor João.
+
 # teste_17: 
+
+Pergunta gerada pelo Chat Gpt
+
+    1. Qual é o objetivo do seu site?
+    2. Que cores você gostaria de usar na sua página?
+    3. Quais seções você gostaria de incluir na sua página?
+    4. Você gostaria de incluir imagens na seção? Se sim, que tipo de imagens você tem em
+    mente?
+    5. Você gostaria de adicionar botões de ação, como "Saiba mais" ou "Entre em contato"?
+    6. Qual estilo você prefere para o layout da página?
+    7. Você gostaria de adicionar algum tipo de animação ou efeito especial na página?
+    8. Você tem algum texto específico que gostaria de incluir na seção de benefícios, ou
+    prefere que eu crie um texto genérico para começar?
+    9. Qual é o título que você gostaria de usar para a sua página?
+
+Resposta feito pelo desenvolvedor
+
+    1. Uma página que fale sobre os benefícios de fazer exercício físico.
+    2. Amarelo e branco.
+    3. Benefícios, apenas.
+    4. Imagens de pessoas se exercitando.
+    5. Não.
+    6. Minimalista.
+    7. Sim.
+    8. Crie um genérico.
+    9. Pode ser "Os Benefícios do Exercício Físico".
+
 # teste_18: 
+
+Pergunta gerada pelo Chat Gpt
+
+
+Resposta feito pelo desenvolvedor
+
+
 # teste_19: 
+
+Pergunta gerada pelo Chat Gpt
+
+
+Resposta feito pelo desenvolvedor
+
+
 # teste_20: 
+
+Pergunta gerada pelo Chat Gpt
+
+
+Resposta feito pelo desenvolvedor
+
+
 # teste_21: 
+
+Pergunta gerada pelo Chat Gpt
+
+
+Resposta feito pelo desenvolvedor
+
+
 # teste_22: 
+
+Pergunta gerada pelo Chat Gpt
+
+
+Resposta feito pelo desenvolvedor
 
 
 

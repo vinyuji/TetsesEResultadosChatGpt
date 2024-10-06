@@ -10,6 +10,7 @@ CREATE TABLE usuarios (
 );
 
 CREATE TABLE mesas (
+    
     id INT AUTO_INCREMENT PRIMARY KEY,
     numero INT NOT NULL UNIQUE,
     capacidade INT NOT NULL,
