@@ -14,14 +14,14 @@ Estes teste servirao como base para uma analise quantitativa dos codigos gerados
 
 
     
-# teste_1: resultado satisfatorio, conforme o pedido, nenhum erro.
+# teste_1: Resultado satisfatorio, conforme o pedido, nenhum erro.
 
 Pergunta fetia pelo desenvolvedor, se usar o prompt modular para obter o resultado
 
     ChatGpt, Preciso de um site simples, onde ha um botao que leve ao youtube, desenvolva em Java Script
 
     
-# teste_2: resultado satifatorio, conforme o pedido, nenhum erro.
+# teste_2: Resultado satifatorio, conforme o pedido, nenhum erro.
 
 Pergunta fetia pelo desenvolvedor
 
@@ -56,7 +56,7 @@ Reposta a resposta do chat
     Cores e contrastes: Quero cores claras e suaves de fundo com o botao combinando, no entanto mais escuros para ter contraste.
     animacao: quero que anime o botao para sinalizar que o mouse esta passando por cima, e o mouse vire uma maozinha 
     
-# teste_3: resultado satisfatrio, conforme o pedido, nenhum erro.
+# teste_3: Resultado satisfatrio, conforme o pedido, nenhum erro.
 
 Pergunta fetia pelo desenvolvedor
 
@@ -92,7 +92,7 @@ Reposta a resposta do chat
     4: as animacoes de botao simples, mostranto que o botao foi clicado
     5: nao quero que interaja
     
-# teste_4: resultado satisfatorio, conforme o pedido, nenhum erro.
+# teste_4: Resultado satisfatorio, conforme o pedido, nenhum erro.
 
 Pergunta fetia pelo desenvolvedor
 
@@ -132,7 +132,7 @@ Reposta a resposta do chat
     5: seria interessantes colocar tratamento de erro
     6: uma animacao ao concluir o login
     
-# teste_5: resultado satisfatorio, conforme o pedido, nenhum erro.
+# teste_5: Resultado satisfatorio, conforme o pedido, nenhum erro.
 
 Pergunta fetia pelo desenvolvedor
 
@@ -180,7 +180,7 @@ Reposta a resposta do chat
     7: apos cadastrar coloque uma animacao de cadastro criado
     8: nao precia redirecionar 
     
-# teste_6: resultado satisfatorio, conforme o pedido, nenhum erro.
+# teste_6: Resultado satisfatorio, conforme o pedido, nenhum erro.
 
 Pergunta fetia pelo desenvolvedor
 
@@ -232,7 +232,7 @@ Reposta a resposta do chat
     8: responsividade e bom
     9: pode colocar, o hiperlink sera um caminho para o youtube
 
-# teste_7: resultado satisfatorio, conforme o pedido, nenhum erro
+# teste_7: Resultado satisfatorio, conforme o pedido, nenhum erro
 
 Pergunta fetia pelo desenvolvedor
 
@@ -291,7 +291,7 @@ Reposta a resposta do chat
     9: nao precisa
     10: como nao ha banco de dados, pode deixar simples
 
-# teste_8: moderado, apresentou resultado, nao quebrou o codigo, no entanto nao apareceu o formulario de cadastro nem de login, mas apos informar o chat que nao apareceu o login nem o cadastro, o elemento script.js foi alterado, o que foi corrigido e arrumado.
+# teste_8: Moderado, apresentou resultado, nao quebrou o codigo, no entanto nao apareceu o formulario de cadastro nem de login, mas apos informar o chat que nao apareceu o login nem o cadastro, o elemento script.js foi alterado, o que foi corrigido e arrumado.
 
 pergunta para qual deu o primeiro  nao satisfatorio: 
 
@@ -398,7 +398,7 @@ apos apresentar o primeiro codigo: envie outra mensagem:
 agora ele arrumou e deixou 100% funcionando
 
 
-# teste_9: moderado, o codigo gerado cadastrou, fez o login, no entanto ao criar as mesas nao era listado para fazer as reversas, o codigo apresentou cerca de 75% de funcionamento.
+# teste_9: Moderado, o codigo gerado cadastrou, fez o login, no entanto ao criar as mesas nao era listado para fazer as reversas, o codigo apresentou cerca de 75% de funcionamento.
 
 Pergunta fetia pelo desenvolvedor
 
@@ -434,7 +434,7 @@ Reposta a resposta do chat
     4: poem menssagem de erro e sucesso
     5: nao tenho um servidor, pode criar um simples para mim
 
-# teste_10: resultado insastisfeito, nao consguiu criar o servidor que guardara as informacoes do banco de dados, o chat nao tem capacidade de fazer esse trabalho. acredito que funcionaria com algunas ajustes.
+# teste_10: Resultado insastisfeito, nao consguiu criar o servidor que guardara as informacoes do banco de dados, o chat nao tem capacidade de fazer esse trabalho. acredito que funcionaria com algunas ajustes.
 
 Pergunta fetia pelo desenvolvedor
 
@@ -445,7 +445,7 @@ Resposta gerada pelo Chat
 Reposta a resposta do chat
 
 
-# teste_11: resultado insatisfeito, nao conseguiu criar o servidor que guardara as informacoes no banco de dados, ele criava o banco de dados e tudo mais, mas quando dava inicio ao servidor, algumas coisas que foi usada no codigo nao foram pedidas, bcrypt foi usado mas nao foi avisado para ser beixado, entre outras dependencias.
+# teste_11: Resultado insatisfeito, nao conseguiu criar o servidor que guardara as informacoes no banco de dados, ele criava o banco de dados e tudo mais, mas quando dava inicio ao servidor, algumas coisas que foi usada no codigo nao foram pedidas, bcrypt foi usado mas nao foi avisado para ser beixado, entre outras dependencias.
 
 Pergunta fetia pelo desenvolvedor
 
@@ -505,7 +505,7 @@ Reposta a resposta do chat
     quero que me mostre os arquivos ou pastas que voce vai usar para me ajudar a contruir os codigos
 
 
-# teste_12: resultado satisfatorio, funcionou certa de 85%, OBS: apesar de ter funcionado, as reservas nao estava funcionando 100%, elas reservavam, no entantom podia ser reservado a mesma mesa para duas pessoas ou para a mesma, tirando isso, tudo ok.
+# teste_12: Resultado satisfatorio, funcionou certa de 85%, OBS: apesar de ter funcionado, as reservas nao estava funcionando 100%, elas reservavam, no entantom podia ser reservado a mesma mesa para duas pessoas ou para a mesma, tirando isso, tudo ok.
 
 Pergunta feita pelo desenvolvedor
 
@@ -547,7 +547,7 @@ Reposta a resposta do chat
     11: sim
 
 
-# teste_13: 
+# teste_13: Satisfatório
     
 Pergunta gerada pelo Chat Gpt
 
@@ -580,7 +580,7 @@ Resposta feito pelo desenvolvedor
 
 
 
-# teste_14: 
+# teste_14: Satisfatório
     
 Pergunta gerada pelo Chat Gpt
 
@@ -608,7 +608,7 @@ Resposta feita pelo desenvolvedor
     8. Pode criar um genérico para começar.
     9. Tech Pet.
 
-# teste_15: 
+# teste_15: Satisfatório
 
 Pergunta gerada pelo Chat Gpt
 
@@ -638,7 +638,7 @@ Resposta feito pelo desenvolvedor
     8. Pode criar genéricos.
     9. Pet concessionária.
 
-# teste_16: 
+# teste_16:  Satisfatorio
 
 Pergunta gerada pelo Chat Gpt
 
@@ -666,7 +666,7 @@ Resposta feito pelo desenvolvedor
     8. Pode criar um genérico.
     9. Cantor João.
 
-# teste_17: 
+# teste_17: Satisfatorio
 
 Pergunta gerada pelo Chat Gpt
 
@@ -694,44 +694,149 @@ Resposta feito pelo desenvolvedor
     8. Crie um genérico.
     9. Pode ser "Os Benefícios do Exercício Físico".
 
-# teste_18: 
+# teste_18: Satisfatório
 
 Pergunta gerada pelo Chat Gpt
 
+    Qual é o objetivo do seu site?
+    Que cores você gostaria de usar na sua página?
+    Quais seções você gostaria de incluir na sua página?
+    Você gostaria de incluir imagens nas seções? Se sim, que tipo de imagens você 
+    tem em mente?
+    Você gostaria de adicionar botões de contato ou links para outras páginas?
+    Há algum estilo específico que você gostaria de aplicar aos botões e ao layout 
+    em geral?
+    Você gostaria de incluir algum tipo de animação ou efeito especial na página?
+    Você tem algum texto específico que gostaria de incluir em cada seção, ou 
+    prefere que eu crie um texto genérico sobre HTML, CSS e JavaScript?
+    Por fim, você tem um nome específico para o seu site ou um título que gostaria 
+    de usar?
 
 Resposta feito pelo desenvolvedor
 
+    Uma página que fala sobre HTML, CSS e JS.
+    Vermelho e branco.
+    Nenhuma, quero apenas uma página simples, que fale os conceitos básicos de 
+    HTML, CSS e JS.
+    Sim, uma imagem na parte de cada linguagem.
+    Não.
+    Sim, minimalista.
+    Não.
+    Pode criar um genérico.
+    Não, pode criar um genérico.
 
-# teste_19: 
+
+# teste_19: Satisfatório. Apesar de ter solicitado uma landing page simples, a I.A poderia ter sugerido outras opções para a pagina.
 
 Pergunta gerada pelo Chat Gpt
 
+    Qual é o objetivo do seu site?
+    Que cores você gostaria de usar na sua landing page?
+    Quais seções você gostaria de incluir na sua landing page?
+    Você gostaria de incluir imagens na seção? Se sim, que tipo de imagens você 
+    tem em mente?
+    Você gostaria de adicionar botões de contato?
+    Há algum estilo específico que você gostaria de aplicar à landing page e ao 
+    layout em geral?
+    Você gostaria de incluir algum tipo de animação ou efeito especial na página?
+    Você tem algum texto específico que gostaria de incluir na seção sobre Arduino, 
+    ou prefere que eu crie um texto genérico para começar?
+    Por fim, você tem um nome específico para a sua landing page ou um título que 
+    gostaria de usar?
 
 Resposta feito pelo desenvolvedor
 
+    Uma landing page que fale sobre Arduino.
+    Azul e branco.
+    Apenas uma seção que fale sobre Arduino, uma landing page simples.
+    Sim, apenas uma imagem de um Arduino.
+    Não.
+    Minimalista.
+    Sim.
+    Pode criar um texto de base.
+    Não, pode criar um genérico.
 
-# teste_20: 
+# teste_20: Satisfatório. Ela cria uma estrutura interessante para uma rede social, todavia algumas funcionalidades não funcionam
 
 Pergunta gerada pelo Chat Gpt
 
+    Qual é o objetivo do seu site?
+    Que cores você gostaria de usar no seu site?
+    Que seções você gostaria de incluir no seu site?
+    Você gostaria de incluir imagens nas seções? Se sim, que tipo de imagens você 
+    tem em mente?
+    Você gostaria de adicionar botões de contato ou de interação, como “Curtir” ou 
+    “Comentar”?
+    Há algum estilo específico que você gostaria de aplicar aos botões e ao layout 
+    em geral?
+    Você gostaria de incluir algum tipo de animação ou efeito especial no site?
+    Você tem algum texto específico que gostaria de incluir em cada seção, ou você 
+    gostaria que eu criasse um texto genérico para começar?
+    Por fim, você tem um nome específico para a sua rede social ou um título que 
+    gostaria de usar?
 
 Resposta feito pelo desenvolvedor
 
+    Uma rede social, estilo antigo Facebook.
+    Azul e branco.
+    Início, perfil, mensagens, sair.
+    Apenas no feed de publicações.
+    Sim.
+    Não, mas quero que se pareça o mais próximo do Facebook.
+    Sim, ao passar o mouse pelas publicações.
+    Posts genéricos para o feed.
+    "Rede social".
 
-# teste_21: 
+# teste_21: Insatisfatório. O sistema não gera a função principal na qual é gerar o gráfico
 
 Pergunta gerada pelo Chat Gpt
 
+    Qual é o objetivo do seu site?
+    Que cores você gostaria de usar no seu site?
+    Que seções você gostaria de incluir no seu site?
+    Você gostaria de incluir imagens nas seções? Se sim, que tipo de imagens você 
+    tem em mente?
+    Você gostaria de adicionar botões de contato?
+    Há algum estilo específico que você gostaria de aplicar aos botões e ao layout 
+    em geral?
+    Você gostaria de incluir algum tipo de animação ou efeito especial no site?
 
 Resposta feito pelo desenvolvedor
 
+    Um site de gerador de gráfico de funções do segundo grau.
+    Vermelho e branco.
+    Instruções, inserir valores e o gráfico em si.
+    Não.
+    Não.
+    Minimalista.
+    Efeito ao passar o mouse no gráfico.
 
-# teste_22: 
+# teste_22: Satisfatório
 
 Pergunta gerada pelo Chat Gpt
 
+    Qual será o tema do seu site?
+    Você gostaria que o blog tivesse quantas páginas principais?
+    Qual estilo de cores você gostaria para o seu blog?
+    Gostaria de adicionar algum logotipo ou imagem no topo da página (header)?
+    O layout do blog deve incluir um menu de navegação fixo no topo (header), ou 
+    você prefere que ele apareça apenas quando a página for rolada para cima?
+    Para as postagens do blog, como você gostaria que fossem exibidas?
+    Gostaria de incluir algum tipo de animação ou efeito quando os usuários 
+    interagem com os elementos do site?
+    Para a página de contato, que informações você gostaria de incluir?
+    Você gostaria de incluir alguma seção de "Destaques" na página inicial?
+    Por último, você gostaria de incluir algum rodapé (footer) no site?
 
 Resposta feito pelo desenvolvedor
 
-
-
+    Um site blog.
+    Três abas: Sobre, Postagens e Destaques, e Contato.
+    Minimalista, nas cores branco e azul.
+    Sim, uma imagem do blog.
+    Apenas quando a página for rolada para cima.
+    Cartões.
+    Sim, ao passar o mouse por uma publicação.
+    Um formulário, e um e-mail e telefone para contato genérico.
+    Posts populares.
+    Não.
