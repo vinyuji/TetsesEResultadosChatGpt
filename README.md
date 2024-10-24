@@ -777,7 +777,7 @@ Resposta feito pelo desenvolvedor
     Não, pode criar um genérico.
 
 
-# teste_19: Satisfatório. Apesar de ter solicitado uma landing page simples, a I.A poderia ter sugerido outras opções para a pagina.
+# teste_19: Moderadamente Satisfatório. Apesar de ter solicitado uma landing page simples, a I.A poderia ter sugerido outras opções para a pagina.
 
 Pergunta gerada pelo Chat Gpt
 
@@ -807,7 +807,7 @@ Resposta feito pelo desenvolvedor
     Pode criar um texto de base.
     Não, pode criar um genérico.
 
-# teste_20: Satisfatório. Ela cria uma estrutura interessante para uma rede social, todavia algumas funcionalidades não funcionam
+# teste_20: Moderadamente Satisfatório. Ela cria uma estrutura interessante para uma rede social, todavia algumas funcionalidades não funcionam
 
 Pergunta gerada pelo Chat Gpt
 
